@@ -1,0 +1,14 @@
+C:\Users\Rmagdaleno\source\repos\AreaObjects\AreaObjects\bin\Debug\netcoreapp3.1\AreaObjects.exe
+C:\Users\Rmagdaleno\source\repos\AreaObjects\AreaObjects\bin\Debug\netcoreapp3.1\AreaObjects.deps.json
+C:\Users\Rmagdaleno\source\repos\AreaObjects\AreaObjects\bin\Debug\netcoreapp3.1\AreaObjects.runtimeconfig.json
+C:\Users\Rmagdaleno\source\repos\AreaObjects\AreaObjects\bin\Debug\netcoreapp3.1\AreaObjects.runtimeconfig.dev.json
+C:\Users\Rmagdaleno\source\repos\AreaObjects\AreaObjects\bin\Debug\netcoreapp3.1\AreaObjects.dll
+C:\Users\Rmagdaleno\source\repos\AreaObjects\AreaObjects\bin\Debug\netcoreapp3.1\AreaObjects.pdb
+C:\Users\Rmagdaleno\source\repos\AreaObjects\AreaObjects\obj\Debug\netcoreapp3.1\AreaObjects.csproj.AssemblyReference.cache
+C:\Users\Rmagdaleno\source\repos\AreaObjects\AreaObjects\obj\Debug\netcoreapp3.1\AreaObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rmagdaleno\source\repos\AreaObjects\AreaObjects\obj\Debug\netcoreapp3.1\AreaObjects.AssemblyInfoInputs.cache
+C:\Users\Rmagdaleno\source\repos\AreaObjects\AreaObjects\obj\Debug\netcoreapp3.1\AreaObjects.AssemblyInfo.cs
+C:\Users\Rmagdaleno\source\repos\AreaObjects\AreaObjects\obj\Debug\netcoreapp3.1\AreaObjects.csproj.CoreCompileInputs.cache
+C:\Users\Rmagdaleno\source\repos\AreaObjects\AreaObjects\obj\Debug\netcoreapp3.1\AreaObjects.dll
+C:\Users\Rmagdaleno\source\repos\AreaObjects\AreaObjects\obj\Debug\netcoreapp3.1\AreaObjects.pdb
+C:\Users\Rmagdaleno\source\repos\AreaObjects\AreaObjects\obj\Debug\netcoreapp3.1\AreaObjects.genruntimeconfig.cache
